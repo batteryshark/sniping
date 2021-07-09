@@ -1,0 +1,1 @@
+Assorted sniping scripts I had to make in order to get stuff - thanks covid.
